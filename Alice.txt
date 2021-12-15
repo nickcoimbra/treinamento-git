@@ -1,3 +1,7 @@
 Oi! Eu sou Alice. Sou um arquivo que alguém adicionou neste repositório há um bom tempo.
 Modificando Alice também.
+<<<<<<< HEAD
 E de novo.
+=======
+Modificando pelo Github.
+>>>>>>> baa10b033cc10193f823d14ea99ea4084b9446fd
